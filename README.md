@@ -7,5 +7,5 @@
 3.	Feature Selection
 4.	Model Creation
 5.	Model Deployment
-6.	Tested using Postman https://github.com/krishnaik06/Dockers
+6.	Tested using Postman github.com/
 7.	Create Front-End App
